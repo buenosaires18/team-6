@@ -1,0 +1,31 @@
+form {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 600px;
+    margin-left: 70px;
+}
+input{
+  margin-left: 10px;
+}
+div{
+  margin-left: 80px;
+  margin-bottom: : 10px;
+  margin-top: 10px;
+}
+div.descripcion{
+  margin-left: 10px;
+}
+select{
+  margin-left: 10px;
+}
+textarea{
+  margin-left: 10px;
+}
+button{
+  margin-left: 70px;
+  margin-top: 10px;
+}
+input.file{
+  margin-bottom: 10px;
+}
