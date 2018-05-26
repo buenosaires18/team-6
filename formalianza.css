@@ -18,6 +18,7 @@ div.descripcion{
 }
 select{
   margin-left: 10px;
+  width: 175px;
 }
 textarea{
   margin-left: 10px;
